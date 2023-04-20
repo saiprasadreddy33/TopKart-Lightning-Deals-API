@@ -1,0 +1,59 @@
+{
+    "deals": [
+      {
+        "id": 1,
+        "product_name": "Product 1",
+        "actual_price": 100,
+        "final_price": 75,
+        "total_units": 100,
+        "available_units": 75,
+        "expiry_time": "2023-04-20T12:00:00Z"
+      },
+      {
+        "id": 2,
+        "product_name": "Product 2",
+        "actual_price": 50,
+        "final_price": 25,
+        "total_units": 200,
+        "available_units": 150,
+        "expiry_time": "2023-04-20T18:00:00Z"
+      },
+      {
+        "id": 3,
+        "product_name": "Product 3",
+        "actual_price": 200,
+        "final_price": 150,
+        "total_units": 50,
+        "available_units": 0,
+        "expiry_time": "2023-04-20T23:59:59Z"
+      },
+      {
+        "id": 4,
+        "product_name": "Product 4",
+        "actual_price": 75,
+        "final_price": 60,
+        "total_units": 150,
+        "available_units": 100,
+        "expiry_time": "2023-04-20T15:00:00Z"
+      },
+      {
+        "id": 5,
+        "product_name": "Product 5",
+        "actual_price": 120,
+        "final_price": 90,
+        "total_units": 80,
+        "available_units": 50,
+        "expiry_time": "2023-04-20T20:00:00Z"
+      },
+      {
+        "id": 6,
+        "product_name": "Product 6",
+        "actual_price": 150,
+        "final_price": 100,
+        "total_units": 30,
+        "available_units": 10,
+        "expiry_time": "2023-04-20T13:00:00Z"
+      }
+    ]
+  }
+  
