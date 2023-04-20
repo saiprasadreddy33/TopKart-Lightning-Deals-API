@@ -1,4 +1,4 @@
-Lightning Deals API
+# Lightning Deals API #
 
 This API provides endpoints for lightning deals, which are limited-time offers on specific products. Users can view available deals, get details about a specific deal, and place an order for a deal.
 Technologies Used
